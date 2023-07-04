@@ -1,0 +1,26 @@
+
+@import url('https://fonts.google.com/specimen/Outfit:wght@400,700');
+
+html{
+  font-size: 15px;
+  font-family: paragraph;
+}
+
+.card{
+  width: 18rem;
+  padding: 1%;
+}
+
+.card-img-top{
+  border-radius: 3%;  
+}
+
+.card-body{
+  text-align: center;
+  font-family: Outfit;
+  font-weight: 600px;
+}
+
+.card-text{
+  color: hsl(212, 8%, 63%);
+}
